@@ -10,7 +10,7 @@
                 ],
                 "Xb#gBf3=8,?xg*W]CM?{": [
                     "Yv",
-                    -20
+                    0
                 ],
                 "-e88v(uJq,+.yyMcSMe7": [
                     "playerx",
@@ -22,7 +22,7 @@
                 ],
                 "fVz+4tzmsgMM~MbX~`cM": [
                     "stars",
-                    6
+                    0
                 ],
                 "|Q76zqrVSue~~!z3Q^M#": [
                     "cameraX",
@@ -46,15 +46,15 @@
                 ],
                 "Vk`4OK4~,75-CTy=s4,3": [
                     "stars you need!",
-                    2500
+                    25
                 ],
                 "#*u$dGA=%H0#[T1Ahm!F": [
                     "☁ levevl",
-                    4
+                    "1"
                 ],
                 "UGlE+}oV4A)L0/xvyf}3": [
                     "lvl4 wave",
-                    "1"
+                    0
                 ],
                 "`s3S-B5Hf_(:G~]E5)-)": [
                     "ability",
@@ -404,7 +404,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "loster",
-                            "5dcQ:n)gq.]6,7I}sHY@"
+                            "#!K.amT2Oqx9y?lCZUIB"
                         ]
                     },
                     "shadow": true,
@@ -499,7 +499,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "Awake2",
-                            "+QSy(R`=pbeU=P7C7-dJ"
+                            ";Jh;J:T6,eUIZM={vv*N"
                         ]
                     },
                     "shadow": true,
@@ -521,7 +521,7 @@
                     "fields": {
                         "TYPE": [
                             "on",
-                            "nI`4S6X9E7yA`]7S7e5-"
+                            "U7_AL+^;vcoXI_3`)}S~"
                         ]
                     },
                     "shadow": false,
@@ -556,7 +556,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "you never know the speed limit",
-                            "SYEQ[GysTe,uleQwSDrQ"
+                            "(.0SXl@ErIohDE#;i/O9"
                         ]
                     },
                     "shadow": true,
@@ -578,7 +578,7 @@
                     "fields": {
                         "TYPE": [
                             "on",
-                            "v1)|c[z|7ypG;N{vvJJw"
+                            "_GPDVk-!F[BbD(I.LpB3"
                         ]
                     },
                     "shadow": false,
@@ -613,7 +613,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "sprinh",
-                            "pspBWjTywx4v2AjjO(Eb"
+                            "]6qmIm9j|H.U.^d2h;Kz"
                         ]
                     },
                     "shadow": true,
@@ -635,7 +635,7 @@
                     "fields": {
                         "TYPE": [
                             "on",
-                            "JCMg3=nVD;KLdvh8hYp+"
+                            "0UMLFAZ?lqZnp;]iYdFp"
                         ]
                     },
                     "shadow": false,
@@ -670,7 +670,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "keep going i know you can do it",
-                            "hMN:fV!XhNpSeN5J9ZzQ"
+                            "8Y)w5P=Z:g2kcXPlwifb"
                         ]
                     },
                     "shadow": true,
@@ -692,7 +692,7 @@
                     "fields": {
                         "TYPE": [
                             "on",
-                            "vZV8I7Vv{Y}{/~E@Ql(9"
+                            "#Ac;lhk`-/maJ7IuKa@*"
                         ]
                     },
                     "shadow": false,
@@ -727,7 +727,7 @@
                     "fields": {
                         "SOUND_MENU": [
                             "go to the top of the tower and dont get defeated by those shark car things",
-                            "wb-K49sZWQN_gOdoywlu"
+                            "Q^r?GD,Mh7?+%i8R1u99"
                         ]
                     },
                     "shadow": true,
@@ -749,7 +749,7 @@
                     "fields": {
                         "TYPE": [
                             "on",
-                            "6W1aBkj1,j@}t~87wi3T"
+                            "0knT}qH3~j*z?oPXs6QN"
                         ]
                     },
                     "shadow": false,
@@ -830,11 +830,36 @@
                     "fields": {
                         "SOUND_MENU": [
                             "when the insomniac lambs sleep - Remastered3",
-                            "dA4voI6S~Obgo{FVWj8}"
+                            "a,:Ez=E4SHQxAgn8UXbl"
                         ]
                     },
                     "shadow": true,
                     "topLevel": false
+                },
+                "o{": {
+                    "opcode": "data_setvariableto",
+                    "next": null,
+                    "parent": null,
+                    "inputs": {
+                        "VALUE": [
+                            1,
+                            [
+                                10,
+                                "1"
+                            ]
+                        ]
+                    },
+                    "fields": {
+                        "VARIABLE": [
+                            "☁ levevl",
+                            "#*u$dGA=%H0#[T1Ahm!F",
+                            ""
+                        ]
+                    },
+                    "shadow": false,
+                    "topLevel": true,
+                    "x": 540,
+                    "y": 380
                 }
             },
             "comments": {
@@ -1201,7 +1226,7 @@
                 }
             },
             "comments": {},
-            "currentCostume": 3,
+            "currentCostume": 0,
             "costumes": [
                 {
                     "name": "1",
@@ -3679,7 +3704,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "o{": {
+                "o|": {
                     "opcode": "data_setvariableto",
                     "next": null,
                     "parent": null,
@@ -3706,7 +3731,7 @@
                 }
             },
             "comments": {
-                "o|": {
+                "o}": {
                     "blockId": "aF",
                     "x": 413,
                     "y": 2052,
@@ -6835,7 +6860,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "o}": {
+                "o~": {
                     "opcode": "data_setvariableto",
                     "next": null,
                     "parent": null,
@@ -6913,7 +6938,7 @@
             ],
             "id": "JyU3ciL!!~xD,+1uIu[?",
             "volume": 100,
-            "layerOrder": 10,
+            "layerOrder": 9,
             "visible": true,
             "x": -200,
             "y": 0,
@@ -8233,7 +8258,7 @@
                 }
             },
             "comments": {},
-            "currentCostume": 3,
+            "currentCostume": 0,
             "costumes": [
                 {
                     "name": "1",
@@ -9548,7 +9573,7 @@
             "volume": 100,
             "layerOrder": 1,
             "visible": true,
-            "x": -200,
+            "x": 0,
             "y": 0,
             "size": 200,
             "direction": 90,
@@ -10198,7 +10223,7 @@
             "id": "he*KVYC=%@|:WbdYj3Fu",
             "volume": 100,
             "layerOrder": 6,
-            "visible": true,
+            "visible": false,
             "x": 0,
             "y": -387.32009999999997,
             "size": 100,
@@ -15869,7 +15894,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "o~": {
+                "pa": {
                     "opcode": "event_whenflagclicked",
                     "next": null,
                     "parent": null,
@@ -15880,7 +15905,7 @@
                     "x": 3333,
                     "y": 1880
                 },
-                "pa": {
+                "pb": {
                     "opcode": "SPtuneShark3_importURL",
                     "next": null,
                     "parent": null,
@@ -15906,7 +15931,7 @@
                     "x": 2459,
                     "y": 192
                 },
-                "pb": {
+                "pc": {
                     "opcode": "SPtuneShark3_startSound",
                     "next": null,
                     "parent": null,
@@ -16219,7 +16244,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pc": {
+                "pd": {
                     "opcode": "lmsclonesplus_createCloneOfMyselfWithVar",
                     "next": null,
                     "parent": null,
@@ -16576,7 +16601,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pd": {
+                "pe": {
                     "opcode": "control_wait",
                     "next": null,
                     "parent": null,
@@ -16595,7 +16620,7 @@
                     "x": 1482,
                     "y": 64
                 },
-                "pe": {
+                "pf": {
                     "opcode": "event_whenflagclicked",
                     "next": null,
                     "parent": null,
@@ -16923,7 +16948,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pf": {
+                "pg": {
                     "opcode": "looks_gotofrontback",
                     "next": null,
                     "parent": null,
@@ -16939,7 +16964,7 @@
                     "x": 300,
                     "y": 739
                 },
-                "pg": {
+                "ph": {
                     "opcode": "looks_goforwardbackwardlayers",
                     "next": null,
                     "parent": null,
@@ -16999,7 +17024,7 @@
                 }
             },
             "comments": {},
-            "currentCostume": 3,
+            "currentCostume": 0,
             "costumes": [
                 {
                     "name": "unnamed",
@@ -17052,7 +17077,7 @@
             "volume": 100,
             "layerOrder": 3,
             "visible": true,
-            "x": -100,
+            "x": 0,
             "y": 0,
             "size": 100,
             "direction": 90,
@@ -17225,7 +17250,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "ph": {
+                "pi": {
                     "opcode": "looks_goforwardbackwardlayers",
                     "next": null,
                     "parent": null,
@@ -17249,7 +17274,7 @@
                     "x": 339,
                     "y": 900
                 },
-                "pi": {
+                "pj": {
                     "opcode": "looks_gotofrontback",
                     "next": null,
                     "parent": null,
@@ -17267,7 +17292,7 @@
                 }
             },
             "comments": {},
-            "currentCostume": 3,
+            "currentCostume": 0,
             "costumes": [
                 {
                     "name": "unnamed (7)",
@@ -17320,7 +17345,7 @@
             "volume": 100,
             "layerOrder": 2,
             "visible": true,
-            "x": -133.33333333333334,
+            "x": 0,
             "y": 0,
             "size": 300,
             "direction": 90,
@@ -18860,7 +18885,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pj": {
+                "pk": {
                     "opcode": "lmsclonesplus_whenCloneStartsWithVar",
                     "next": null,
                     "parent": null,
@@ -19630,7 +19655,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pk": {
+                "pl": {
                     "opcode": "event_broadcast",
                     "next": null,
                     "parent": null,
@@ -19650,7 +19675,7 @@
                     "x": 48,
                     "y": 416
                 },
-                "pl": {
+                "pm": {
                     "opcode": "lmsclonesplus_createCloneOfMyselfWithVar",
                     "next": null,
                     "parent": null,
@@ -21218,7 +21243,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pm": {
+                "pn": {
                     "opcode": "lmsclonesplus_createCloneOfMyselfWithVar",
                     "next": null,
                     "parent": null,
@@ -21242,7 +21267,7 @@
                     "x": 3140,
                     "y": 899
                 },
-                "pn": {
+                "po": {
                     "opcode": "lmsclonesplus_createCloneOfMyselfWithVar",
                     "next": null,
                     "parent": null,
@@ -21669,7 +21694,7 @@
                     "shadow": true,
                     "topLevel": false
                 },
-                "po": {
+                "pp": {
                     "opcode": "lmsclonesplus_createCloneOfMyselfWithVar",
                     "next": null,
                     "parent": null,
@@ -21766,7 +21791,7 @@
                     "shadow": true,
                     "topLevel": false
                 },
-                "pp": {
+                "pq": {
                     "opcode": "motion_setx",
                     "next": null,
                     "parent": null,
@@ -22288,7 +22313,7 @@
             ],
             "id": "lCx9IAfLwp`.pUd*~e%E",
             "volume": 100,
-            "layerOrder": 9,
+            "layerOrder": 10,
             "visible": false,
             "x": 306,
             "y": 242,
@@ -26838,7 +26863,7 @@
                     "shadow": false,
                     "topLevel": false
                 },
-                "pq": {
+                "pr": {
                     "opcode": "looks_layersSetLayer",
                     "next": null,
                     "parent": null,
