@@ -27341,7 +27341,7 @@
         "SPtuneShark3": "https://sharkpools-extensions.vercel.app/extension-code/Tune-Shark-V3.js",
         "SPtimeCalc": "https://sharkpools-extensions.vercel.app/extension-code/Time-Calculation.js",
         "SP0zMenuMaker": "https://sharkpools-extensions.vercel.app/extension-code/Dropdown-Maker.js",
-        "lmsclonesplus": "https://extensions.turbowarp.org/Lily/ClonesPlus.js"
+        "lmsclonesplus": "https://raw.githubusercontent.com/TurboWarp/extensions/refs/heads/master/extensions/Lily/ClonesPlus.js"
     },
     "customFonts": [
         {
